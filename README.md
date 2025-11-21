@@ -1,4 +1,4 @@
-# Master LangGraph v1 and Ollama --- Build Production‑Grade GenAI Agents
+# {Master LangGraph v1 and Ollama - Build Production‑Grade GenAI Agents}(https://github.com/BarryGon911/Master-LangGraph-v1-and-Ollama-Build-Gen-AI-Agents/)
 
 A comprehensive, modern, and industry‑ready course designed to teach you
 how to build **real AI agents** using **LangGraph v1**, **LangChain
